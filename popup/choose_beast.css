@@ -1,0 +1,29 @@
+html, body {
+  width: 100px;
+}
+
+.hidden {
+  display: none;
+}
+
+.button {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 0.8em;
+  cursor: pointer;
+}
+
+.random {
+  background-color: #E5F2F2;
+}
+.reset {
+  background-color: #FBFBC9;
+}
+
+.reset:hover {
+  background-color: #EAEA9D;
+}
+.random:hover {
+  background-color: #EAEA9D;
+}
