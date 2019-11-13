@@ -18,9 +18,7 @@
         //输入框
         case "text":
         case "password":
-        obj.value=obj.id;
-        
-          // obj.value=RandomStr();
+          obj.value=RandomStr();
           break;
         case "radio":
           obj.checked=Math.random()>0.5;
