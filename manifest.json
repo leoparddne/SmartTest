@@ -3,7 +3,7 @@
   "description": "一款火狐插件，实现自动向所有input输入框填写随机字符串的功能，方便测试工作进行",
   "manifest_version": 2,
   "name": "SmartTest",
-  "version": "1.0",
+  "version": "1.2",
   "homepage_url": "https://github.com/leoparddne/SmartTest",
   "icons": {
     "48": "icons/border-48.png"
