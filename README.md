@@ -4,5 +4,5 @@
 
 安装方式
 火狐插件搜索 SmartTesttool
-![image](https://user-images.githubusercontent.com/13193677/144157344-792e8381-629b-4e44-9bef-5d15bb7f14eb.png)
+![image](https://user-images.githubusercontent.com/13193677/144157344-792e8381-629b-4e44-9bef-5d15bb7f14eb.png)  
 安装即可
